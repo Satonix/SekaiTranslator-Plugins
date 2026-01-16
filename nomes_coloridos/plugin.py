@@ -126,7 +126,7 @@ class SpeakerColorsConfig(QWidget):
 
 
 # ============================================================
-# Plugin Visual (NOVO CONTRATO)
+# Plugin Visual
 # ============================================================
 
 class Plugin(VisualPlugin):
@@ -168,9 +168,6 @@ class Plugin(VisualPlugin):
 
         if column == "speaker":
             return TextStyle(color=color, bold=True)
-
-        if column in {"original", "translation"}:
-            return TextStyle(color=color)
 
         return None
 
@@ -266,3 +263,4 @@ class Plugin(VisualPlugin):
                 speakers.add(speaker)
 
         return sorted(speakers)
+
