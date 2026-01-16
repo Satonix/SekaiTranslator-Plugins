@@ -21,11 +21,12 @@ class AltoContrastePlugin(VisualPlugin):
 
         if entry.status == TranslationStatus.TRANSLATED:
             return TextStyle(
-                background="#747812 ",
+                background="#747812",
                 color="#ffffff"
             )
 
         return None
+
 
 
 
