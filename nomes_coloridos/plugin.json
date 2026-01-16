@@ -1,9 +1,10 @@
 {
-  "id": "nomes_coloridos_v2",
-  "name": "Nomes Coloridos V2",
-  "version": "1.0.0",
+  "id": "nomes_coloridos",
+  "name": "Nomes Coloridos",
+  "version": "1.1.0",
   "author": "Satonix",
-  "description": "Define cores por personagem (por projeto)",
+  "description": "Colore os nomes dos personagens na tabela e no editor.",
   "entrypoint": "plugin:Plugin",
   "type": ["visual"]
 }
+
