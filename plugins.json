@@ -1,1 +1,14 @@
-
+{
+  "api_version": 1,
+  "plugins": [
+    {
+      "id": "nomes_coloridos",
+      "name": "Nomes Coloridos",
+      "version": "1.0.0",
+      "description": "Colora os nomes dos personagens na tabela e no editor.",
+      "type": ["visual"],
+      "source": "nomes_coloridos",
+      "min_app_version": "0.8.0"
+    }
+  ]
+}
