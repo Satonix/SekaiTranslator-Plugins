@@ -3,6 +3,8 @@
   "name": "Alto Contraste",
   "version": "1.0.0",
   "author": "Satonix",
+  "description": "Ajusta as cores dos status da tabela para melhorar o contraste.",
   "type": ["visual"],
-  "entrypoint": "plugin:AltoContrastePlugin"
+  "entrypoint": "plugin:AltoContrastePlugin",
+  "api_version": 1
 }
