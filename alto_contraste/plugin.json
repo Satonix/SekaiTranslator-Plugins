@@ -1,0 +1,8 @@
+{
+  "id": "alto_contraste",
+  "name": "Alto Contraste",
+  "version": "1.0.0",
+  "author": "Satonix",
+  "type": ["visual"],
+  "entrypoint": "plugin:AltoContrastePlugin"
+}
