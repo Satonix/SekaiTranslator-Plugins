@@ -9,14 +9,14 @@
       "type": ["visual"],
       "source": "nomes_coloridos",
       "min_app_version": "0.8.3"
-    }
+    },
     {
       "id": "alto_contraste",
       "name": "Alto Contraste",
       "version": "1.0.0",
       "description": "Ajusta as cores dos status da tabela para melhorar o contraste.",
       "type": ["visual"],
-      "source": "nomes_coloridos",
+      "source": "alto_contraste",
       "min_app_version": "0.8.3"
     }
   ]
