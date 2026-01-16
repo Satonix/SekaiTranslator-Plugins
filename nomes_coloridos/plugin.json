@@ -1,0 +1,9 @@
+{
+  "id": "nomes_coloridos_v2",
+  "name": "Nomes Coloridos V2",
+  "version": "1.0.0",
+  "author": "Satonix",
+  "description": "Define cores por personagem (por projeto)",
+  "entrypoint": "plugin:Plugin",
+  "type": ["visual"]
+}

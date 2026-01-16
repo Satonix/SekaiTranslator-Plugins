@@ -1,0 +1,1 @@
+# Plugin dos Nomes Coloridos
