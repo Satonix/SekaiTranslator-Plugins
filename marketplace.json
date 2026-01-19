@@ -7,8 +7,9 @@
       "author": "SekaiVN",
       "description": "Colorização de nomes de personagens.",
       "version": "1.1.0",
-      "type": "visual",
-      "download_url": "https://satonix.github.io/SekaiTranslator-Plugins/plugins/nomes_coloridos/nomes_coloridos_1.1.0.rar"
+      "type": ["visual"],
+      "source": "https://satonix.github.io/SekaiTranslator-Plugins/plugins/nomes_coloridos/nomes_coloridos_1.1.0.rar",
+      "min_app_version": "1.0.0"
     },
     {
       "id": "alto_contraste",
@@ -16,8 +17,9 @@
       "author": "SekaiVN",
       "description": "Destaque visual por status.",
       "version": "1.0.0",
-      "type": "visual",
-      "download_url": "https://satonix.github.io/SekaiTranslator-Plugins/plugins/alto_contraste/alto_contraste_1.0.0.rar"
+      "type": ["visual"],
+      "source": "https://satonix.github.io/SekaiTranslator-Plugins/plugins/alto_contraste/alto_contraste_1.0.0.rar",
+      "min_app_version": "1.0.0"
     }
   ]
 }
