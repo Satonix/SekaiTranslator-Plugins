@@ -8,7 +8,7 @@
       "description": "Colorização de nomes de personagens.",
       "version": "1.1.0",
       "type": ["visual"],
-      "source": "https://satonix.github.io/SekaiTranslator-Plugins/plugins/nomes_coloridos/nomes_coloridos_1.1.0.rar",
+      "source": "https://satonix.github.io/SekaiTranslator-Plugins/plugins/nomes_coloridos/nomes_coloridos_1.1.0.zip",
       "min_app_version": "1.0.0"
     },
     {
@@ -18,7 +18,7 @@
       "description": "Destaque visual por status.",
       "version": "1.0.0",
       "type": ["visual"],
-      "source": "https://satonix.github.io/SekaiTranslator-Plugins/plugins/alto_contraste/alto_contraste_1.0.0.rar",
+      "source": "https://satonix.github.io/SekaiTranslator-Plugins/plugins/alto_contraste/alto_contraste_1.0.0.zip",
       "min_app_version": "1.0.0"
     }
   ]
