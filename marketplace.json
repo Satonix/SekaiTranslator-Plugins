@@ -1,5 +1,5 @@
 {
-  "api_version": 1,
+  "schema": 1,
   "plugins": [
     {
       "id": "nomes_coloridos",
