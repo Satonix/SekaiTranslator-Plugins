@@ -5,30 +5,19 @@
       "id": "nomes_coloridos",
       "name": "Nomes Coloridos",
       "author": "SekaiVN",
-      "description": "Colorização de nomes de personagens na tabela, editor e gutter.",
+      "description": "Colorização de nomes de personagens.",
       "version": "1.1.0",
-      "data_version": 2,
-      "type": ["visual"],
-      "download_url": "https://satonix.github.io/SekaiTranslator-Plugins/plugins/nomes_coloridos/nomes_coloridos_1.1.0.rar",
-      "changelog": [
-        "Suporte ao gutter (numeração + personagem)",
-        "Migração automática de dados",
-        "Correções de sincronização visual"
-      ]
+      "type": "visual",
+      "download_url": "https://satonix.github.io/SekaiTranslator-Plugins/plugins/nomes_coloridos/nomes_coloridos_1.1.0.rar"
     },
     {
       "id": "alto_contraste",
       "name": "Alto Contraste",
       "author": "SekaiVN",
-      "description": "Destaque visual por status de tradução.",
+      "description": "Destaque visual por status.",
       "version": "1.0.0",
-      "data_version": 1,
-      "type": ["visual"],
-      "download_url": "https://satonix.github.io/SekaiTranslator-Plugins/plugins/alto_contraste/alto_contraste_1.0.0.rar",
-      "changelog": [
-        "Versão inicial",
-        "Destaque visual por status"
-      ]
+      "type": "visual",
+      "download_url": "https://satonix.github.io/SekaiTranslator-Plugins/plugins/alto_contraste/alto_contraste_1.0.0.rar"
     }
   ]
 }
